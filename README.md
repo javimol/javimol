@@ -19,6 +19,7 @@ from range (depth) data, Universidad Autónoma de Madrid (VPU-Lab), 2012.
 | [face-assisted-tracking](https://github.com/javimol/face-assisted-tracking) | Eigenfaces (PCA) face recognition on low-resolution head-tracker crops (MATLAB) |
 | [multilayer-perceptron](https://github.com/javimol/multilayer-perceptron) | From-scratch multilayer perceptron in C with batch backpropagation |
 | [survival-of-the-fittest-portfolio](https://github.com/javimol/survival-of-the-fittest-portfolio) | Cardinality-constrained portfolio optimisation with a genetic algorithm (MATLAB) |
+| [gumgum/multivitamin](https://github.com/gumgum/multivitamin) | Python framework for serving machine learning models (GumGum; main contributor) |
 | [thinkpad-linux-tweaks](https://github.com/javimol/thinkpad-linux-tweaks) | Power, NVIDIA Optimus and TLP tuning for Ubuntu on a ThinkPad X1 Extreme |
 
 ## Publications
