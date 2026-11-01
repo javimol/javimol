@@ -29,12 +29,12 @@ gesture recognition from range (depth) data, Universidad Autónoma de Madrid
 ## Selected publications
 
 - J. Molina, J. A. Pajuelo, J. M. Martínez, *Real-time motion-based hand gestures recognition from time-of-flight video*, Journal of Signal Processing Systems 86(1), 2017.
-- J. Molina, J. M. Martínez, [*A synthetic training framework for providing gesture scalability to 2.5D pose-based hand gesture recognition systems*](https://doi.org/10.1007/s00138-014-0620-7), Machine Vision and Applications 25(5), 2014.
+- J. Molina, J. M. Martínez, *A synthetic training framework for providing gesture scalability to 2.5D pose-based hand gesture recognition systems*, Machine Vision and Applications 25(5), 2014.
 - J. Molina, J. A. Pajuelo, M. Escudero-Viñolo, J. Bescós, J. M. Martínez, *A natural and synthetic corpus for benchmarking of hand gesture recognition systems*, Machine Vision and Applications 25(4), 2014.
 - J. Molina, M. Escudero-Viñolo, A. Signoriello, M. Pardàs, C. Ferrán, J. Bescós et al., *Real-time user independent hand gesture recognition from time-of-flight camera video using static and dynamic models*, Machine Vision and Applications 24(1), 2013.
 - J. Molina, *Contributions to Hand Gesture Recognition on the basis of Range Data*, PhD thesis, Universidad Autónoma de Madrid, 2012.
 
-Full list on [Google Scholar](https://scholar.google.com/citations?user=PgrzdwoAAAAJ&hl=en).
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Full%20publication%20list-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=PgrzdwoAAAAJ&hl=en)
 
 ## Patents
 
