@@ -1,15 +1,15 @@
 # Javier Molina
 
-Machine learning engineer and computer vision researcher. Most recently Senior
+Machine Learning (ML) engineer and Computer Vision (CV) researcher. Most recently Senior
 Software Engineer on Pixel Camera at Google (auto-focus models, evaluation and data
-pipelines, 2021–2026); before that I led computer vision R&D at GumGum. PhD in hand
+pipelines, 2021–2026); before that I led Computer Vision R&D at GumGum. PhD in hand
 gesture recognition from range (depth) data, Universidad Autónoma de Madrid
 (VPU-Lab), 2012.
 
 ## What I work on
 
-- **Computer vision**: camera auto-focus, object detection and tracking, hand and human pose estimation, face recognition
-- **Machine learning**: model evaluation, synthetic training data, neural networks, genetic algorithms
+- **Computer Vision**: camera auto-focus, object detection and tracking, hand and human pose estimation, face recognition
+- **Machine Learning**: model evaluation, synthetic training data, neural networks, genetic algorithms
 - **ML engineering**: model serving and deployment (Python, C++), human-in-the-loop data pipelines
 - **Currently learning**: LLMs and generative AI
 
